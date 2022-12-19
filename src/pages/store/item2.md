@@ -1,12 +1,12 @@
 ---
 layout: "../../layouts/StoreItemLayout.astro"
-title: "Demo Item 2"
+title: "Social Media Management"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 details: false
-custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
-pubDate: "Sep 11 2022"
-pricing: "$10"
+custom_link_label: "My Team"
+custom_link: "https://unkreatif.com/"
+pubDate: "Desember 4 2022"
+pricing: "Price is Variant, contact for the details"
 oldPricing: "$25.5"
 checkoutUrl: "https://checkouturl.com/"
 heroImage: "/itemPreview.png"
