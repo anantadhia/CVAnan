@@ -1,9 +1,9 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Random blog post"
-description: "https://medium.com/@anantadhia"
-pubDate: "Sep 10 2022"
+title: "Work automation ideas"
+description: "Business Intelligence, Data Analyst and Coding Blog"
+pubDate: "Sep 10 2023"
 heroImage: "/post_img.png"
 ---
 
-For more randomized ideas, please check https://medium.com/@anantadhia
+You can find some of my ideas of work automation here https://nyokod.lapage.website

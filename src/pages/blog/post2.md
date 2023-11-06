@@ -1,9 +1,9 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Work automation ideas"
+title: "Random blog post"
 description: "https://medium.com/@anantadhia"
 pubDate: "Sep 10 2022"
 heroImage: "/post_img.png"
 ---
 
-You can find some of my ideas of work automation here https://nyokod.vercel.app
+For more randomized ideas, please check https://medium.com/@anantadhia
